@@ -1,0 +1,8 @@
+{
+    "name" : "CC Demo3 Protocol",
+    "desc" : [
+        "Synthenic demo protocol to demonstrate protocol versioning ",
+        "where the version is reported in the first connect message."
+    ],
+    "type" : "protocol"
+}
