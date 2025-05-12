@@ -66,9 +66,9 @@ function (cc_plugin_Message)
         cc_tools_qt_plugin/Message/cc_demo3/Message.cpp
         cc_tools_qt_plugin/Message/cc_demo3/message/Connect.cpp
         cc_tools_qt_plugin/Message/cc_demo3/message/Msg1.cpp
+        cc_tools_qt_plugin/Message/cc_demo3/factory/MsgFactory.cpp
         cc_tools_qt_plugin/Message/cc_demo3/frame/FrameTransportMessage.cpp
         cc_tools_qt_plugin/Message/cc_demo3/frame/Frame.cpp
-        cc_tools_qt_plugin/Message/cc_demo3/factory/MsgFactory.cpp
     )
 
     add_library (${name} STATIC ${src})
