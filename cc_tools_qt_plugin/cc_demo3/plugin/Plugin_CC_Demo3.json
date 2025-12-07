@@ -4,5 +4,6 @@
         "Synthenic demo protocol to demonstrate protocol versioning ",
         "where the version is reported in the first Connect message."
     ],
+    "version": "v3.0.4",
     "type" : "protocol"
 }
